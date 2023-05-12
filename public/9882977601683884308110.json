@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1017612381185",
+    "project_id": "pinjol-ojk-cepat-cair-irene",
+    "storage_bucket": "pinjol-ojk-cepat-cair-irene.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017612381185:android:6247c5305f582518aa2400",
+        "android_client_info": {
+          "package_name": "com.pinjolojkcepatcair.pinjolamanbungarendah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017612381185-21jbrsht8g4i2rcs548ikec4ohedbhqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1vOoFN08vTHFtboI8Ww7-2iEt29mjdNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017612381185-21jbrsht8g4i2rcs548ikec4ohedbhqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
